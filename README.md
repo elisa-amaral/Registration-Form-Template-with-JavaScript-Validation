@@ -6,7 +6,7 @@ The user must then try again with the correct input, reloading the page is not n
 
 ## Project Link
 
-**https://registration-form-with-js-validation.netlify.app/**
+**https://registration-form-js-validation.netlify.app/**
 
 ## Screenshot
 
