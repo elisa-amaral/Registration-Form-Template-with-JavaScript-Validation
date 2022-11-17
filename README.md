@@ -4,7 +4,7 @@ This project is a registration form template with field validation. When there's
 
 The user must then try again with the correct input, reloading the page is not necessary. When all inputs are correct, an alert indicates that the form should then be sent to the backend for data treatment. 
 
-## Project Link
+## Project Website
 
 **https://registration-form-js-validation.netlify.app/**
 
